@@ -1,5 +1,3 @@
-# stock_data/backtesting.py
-
 from .models import StockData
 import pandas as pd
 from decimal import Decimal

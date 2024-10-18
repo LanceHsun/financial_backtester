@@ -1,5 +1,3 @@
-# stock_data/models.py
-
 from django.db import models
 
 class StockData(models.Model):
